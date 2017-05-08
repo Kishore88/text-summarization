@@ -26,4 +26,4 @@ python run.py
 
 You should be able to visit http://localhost:9000/textsummarization.
 
-![Alt text](https://github.com/Kishore88/Text-Summarization/blob/master/static/project-ui.png?raw=true "Optional Title")
+![Alt text](https://github.com/Kishore88/text-summarization/blob/master/static/image.png?raw=true "Optional Title")
